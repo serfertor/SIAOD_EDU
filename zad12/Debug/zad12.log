@@ -1,0 +1,8 @@
+﻿  zad12.cpp
+C:\Users\George\source\repos\zad12\zad12.cpp(31,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\George\source\repos\zad12\zad12.cpp(41,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\George\source\repos\zad12\zad12.cpp(111,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\George\source\repos\zad12\zad12.cpp(126,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\George\source\repos\zad12\zad12.cpp(149,9): warning C4101: q: неиспользованная локальная переменная
+C:\Users\George\source\repos\zad12\zad12.cpp(149,12): warning C4101: n: неиспользованная локальная переменная
+  zad12.vcxproj -> C:\Users\George\source\repos\zad12\Debug\zad12.exe
