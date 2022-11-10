@@ -1,0 +1,5 @@
+﻿  SIAOD2.cpp
+C:\Users\George\source\repos\SIAOD2\siaod.h(116,9): warning C4101: i: неиспользованная локальная переменная
+C:\Users\George\source\repos\SIAOD2\siaod.h(158,18): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\George\source\repos\SIAOD2\SIAOD2.cpp(98,31): warning C4018: <: несоответствие типов со знаком и без знака
+  SIAOD2.vcxproj -> C:\Users\George\source\repos\SIAOD2\Debug\SIAOD2.exe
