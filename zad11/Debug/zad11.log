@@ -1,0 +1,6 @@
+﻿  zad11.cpp
+C:\Users\George\source\repos\zad11\zad11.cpp(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\George\source\repos\zad11\zad11.cpp(54,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\George\source\repos\zad11\zad11.cpp(72,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\George\source\repos\zad11\zad11.cpp(116,20): warning C4244: =: преобразование "__int64" в "long", возможна потеря данных
+  zad11.vcxproj -> C:\Users\George\source\repos\zad11\Debug\zad11.exe
