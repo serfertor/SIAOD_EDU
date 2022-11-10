@@ -1,0 +1,6 @@
+﻿  task3.cpp
+C:\Users\George\source\repos\task3\task3\task3.cpp(77,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\George\source\repos\task3\task3\task3.cpp(90,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\George\source\repos\task3\task3\task3.cpp(103,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\George\source\repos\task3\task3\task3.cpp(101,15): warning C4101: p: неиспользованная локальная переменная
+  task3.vcxproj -> C:\Users\George\source\repos\task3\Debug\task3.exe
